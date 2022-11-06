@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  display: inline;
+}
+
+.caixa {
+  background-color: #111;
+  padding: 25px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+h2 {
+  color: #fff;
+}
+
+span {
+  color: #febe01;
+}
+
+button {
+  background-color: #febe01;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
