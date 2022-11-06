@@ -30,9 +30,11 @@ span {
   color: #febe01;
 }
 
-button {
+a {
   background-color: #febe01;
   padding: 10px;
   border: none;
   border-radius: 5px;
+  text-decoration: none;
+  color: #332200;
 }
